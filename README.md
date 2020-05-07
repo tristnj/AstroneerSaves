@@ -1,1 +1,6 @@
 # AstroneerSaves
+
+Directory
+C:\Users\WINDOWSUSERNAME\AppData\Local\Packages\SystemEraSoftworks.29415440E1269_ftk5pbg2rayv2\SystemAppData\wgs\000901FD8FBBB1DE_6C0B0100B10345C3B55AA1C421DDC84D\42032EE8F333483290980D01BBCFA667
+
+file numbers will probably be different
